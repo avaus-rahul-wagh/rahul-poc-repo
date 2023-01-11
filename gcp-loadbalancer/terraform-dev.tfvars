@@ -1,0 +1,6 @@
+project_id   = "rahul-sandbox-374309"
+gcp_location = "europe-central2"
+gcp_region   = "europe-central2"
+lb_name      = "test-load-balancer"
+ssl          = "false"
+domain       = ""
